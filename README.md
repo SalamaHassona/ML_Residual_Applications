@@ -106,8 +106,10 @@ python OPTICS_xyz_clustering_postprocessing.py --labels_data labels_L_1.txt --mo
 python GaussianMixtureModel_xyz_clustering_postprocessing_classification.py --labels_data labels_L_1.txt --model_labels gmm --out_fig gmm
 python kmeans_xyz_clustering_postprocessing_classification.py --labels_data labels_L_1.txt --model_labels kmeans --out_fig kmeans
 python OPTICS_xyz_clustering_postprocessing_classification.py --labels_data labels_L_1.txt --model_labels OPTICS --out_fig OPTICS
+```
 
 ## Results
+
 Our model achieves the following performance metrics:
 ![img_1.png](img_1.png)
 
@@ -118,7 +120,7 @@ Licensed under [The MIT License](https://opensource.org/licenses/MIT).
 If you found this work useful for you, please consider citing it.
 
 ## Contact
-For any issues/questions regarding the paper or reproducing the results, please contact me.   
-Salama Hassona  
-Opole University of Technology, Opole, Opolskie, Poland.    
-Email: salama.hassona{at}gmail.com  
+For any issues/questions regarding the paper or reproducing the results, please contact me.
+Salama Hassona
+Opole University of Technology, Opole, Opolskie, Poland.
+Email: salama.hassona{at}gmail.com

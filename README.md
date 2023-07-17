@@ -110,7 +110,7 @@ python OPTICS_xyz_clustering_postprocessing_classification.py --labels_data labe
 
 ## Results
 
-Our model achieves the following performance metrics:
+Our models achieve the following performance metrics:
 ![img_1.png](img_1.png)
 
 ## License
